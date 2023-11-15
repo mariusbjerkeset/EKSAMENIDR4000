@@ -3,8 +3,8 @@ project:
 
 book:
   title: "IDR4000_MAPPEEKSAMEN"
-  author: "KANDIDATNR"
-  date: "17/11/2023"
+  author: "409"
+  date: "11.17.2023"
   chapters:
     - index.qmd
     - 01-reliabilitet.qmd 
