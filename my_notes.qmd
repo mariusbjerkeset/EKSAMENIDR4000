@@ -1,0 +1,14 @@
+---
+title: "my_notes"
+format: html
+editor: visual
+bibliography: 
+bibliography: references.bib
+---
+
+## Hopkins writes about reliability [@joyner2008]
+
+```{r}
+
+
+```

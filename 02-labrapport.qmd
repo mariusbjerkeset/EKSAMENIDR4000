@@ -1,0 +1,173 @@
+---
+bibliography: references.bib
+format: pdf
+---
+
+# Labrapport
+
+## **Introduksjon**
+
+Proteiner gjør det meste av arbeidet i cellene i kroppen, og er nødvendig for strukturen, funksjonene og reguleringen av kroppens vev og organer. De er essensielle deler av organismen, og deltar praktisk talt i alle prosesser i kroppen [@alberts2002]. Det å kunne analysere proteiner vil derfor være av stor betydning, og svært interessant å se på innen ulike fagområder, som celle- og molekylærbiologi.
+
+Det å studere protein og proteinkonsentrasjonen i muskelceller har blitt brukt i flere treningsstudier [@stec2016; @hammarström2020]. Den biologiske tilpasningen til motstandstrening varierer mellom personer, på bakgrunn av variabler som treningsvolum, intensitet, repetisjoner og frekvens av treningsøktene [@progress2009]. I tillegg til at genetiske og epigenetiske disposisjoner og miljøfaktorer spiller en rolle for variasjoner i tilpasninger [@timmons2011]. Ved å studere protein kan man se på blant annet interaksjon, lokasjon og aktiveringsstatus av ulike proteiner. Dette kan for eksempel brukes for å fremme gunstige treningstilpasninger.
+
+I denne labbrapporten har vi gjort en protein ekstraksjon og analyse. Én frivillig person meldte seg til å ta en mikrobiopsi fra vastus lateralis, i venstre og høyre bein. Personen gjennomførte eksentrisk beinpress til utmattelse på venstre bein før prøvetaking. Vi var interessert i å se på det fosforylerte p-70 proteinet til denne personen, og forskjellen i konsentrasjonen mellom venstre og høyre bein. Prøvene ble tatt på Høgskolen i Innlandet, 30.oktober 2023. Resterende prøver som er analysert er hentet fra mikrobiopsi fra én trent- og én utrent person. I denne analysen var vi interessert i å se på UBF-proteinet, og sammenlikne konsentrasjonen av dette proteinet mellom personene.
+
+## **Teori**
+
+Det er individuelle forskjeller på adaptasjoner til styrketrening, målt i muskelstyrke og muskelmasse, og dette korrelerer med muskelcelle-karakteristikker i hvile og under trening [@terzis2007; @raue2012; @thalacker-mercer2013; @stec2016]. Hemmelse av proteinet mTORC1 svekker proteinsyntesen hos mennesker [@drummond2009], mens aktivering av proteinet S6-Kinase 1 (S6K1/p-70), som ligger nedstrøms for mTORC1, gir en økning i proteinsyntesen og påfølgende økning i muskelvekst [@terzis2007; @burd2010]. Et økt treningsvolum vil føre til større fosforylering av S6K1, og dermed markante tilpasninger gjennom gjentatte episoder med økt proteinsyntese [@burd2010; @terzis2010; @ahtiainen2015]. Dette er grunnen til at vi ønsker å se på konsentrasjonen av p-70 i det beinet som har trent til utmattelse, mot det beinet som ikke har trent rett før prøvetaking.
+
+Det er korrelasjon mellom mengden UBF-protein i cellene, og hastigheten på ribosomal DNA-transkripsjon i hvilende og serum-stimulerte celler [@glibetic1995]. Mitotisk cellevekst krever kontinuerlig ribosombiogenese, som er nødvendig for å støtte proteinsyntesen. Desto raskere cellene går gjennom cellesyklusen, desto raskere må ribosombiogenesen skje. Denne prosessen begrenses av hastigheten på transkripsjonen av rRNA-genene (rDNA). Det betyr at dersom konsentrasjonen av UBF i cellene er stor, vil transkripsjonen av rDNA gå raskere. Dette er med på å styre produksjonen av ribosomer, og de er essensielle for proteinsyntesen og cellevekst [@glibetic1995]. Dette er grunnen til at vi ønsker å se på konsentrasjonen av UBF-proteinet i beinet til én trent person versus en utrent.
+
+For å analysere de aktuelle proteinene ble det brukt en metode kalt Western blot. Western blot er en immunologisk metode som brukes i celle- og molekylærbiologi. Teknikken brukes for å separere og identifisere spesifikke proteiner fra en kompleks blanding av proteiner ekstrahert fra celler. I Western blot blir en blanding av proteiner separert basert på molekylvekt og dermed type, gjennom gel-elektroforese. Resultatene overføres deretter til en membran, som produserer et bånd for hvert protein. Membranen inkuberes deretter med merkede antistoffer spesifikke for det ønskede proteinet [@yang2012].
+
+De ubundne antistoffene vaskes bort, slik at det kun er de bundne antistoffene til proteinet som man er interessert i blir igjen. De bundne antistoffene detekteres ved fremkalling av film. Siden antistoffene bare binder seg ved de proteinene av interesse, skal kun ett bånd være synlig. Tykkelsen på båndet samsvarer med mengden protein som er til stede. Western blot er en nyttig teknikk proteindeteksjon der man får muligheten til å kvantifisere proteinuttrykk [@yang2012].
+
+## **Metode**
+
+#### **Prøvemateriale**
+
+En frivillig på gruppa meldte seg til å ta en mikrobiopsi fra vastus lateralis i både venstre og høyre ben. Vedkommende hadde trent styrke på formiddagen, men gjennomførte 10 sett eksentriske benpress med venstre fot til utmattelse. Derfor var vi interessert i å se på fosforylert p-70 protein. Resterende prøver vi analyserte var fra en mikrobiopsi fra en trent person mens andre var fra en utrent person. Her var vi interessert i å se på UBF-proteinet.
+
+#### **Oppsett og utgangspunkt for analyse**
+
+Til det vi gjorde i labben fikk vi ferdig behandlet muskelvev som var fryst ned over natta. Western blot og bestemmelse av total proteinkonsentrasjon ble gjort i motsatt rekkefølge, samt at prøven hvor det ble bestemt total proteinkonsentrasjon var en vilkårlig tilgjengelig prøve av tørt muskelvev som vi fikk utdelt.
+
+Muskelbiopsien fra den frivillige ble homogenisert av bioingeniør som beskrevet under metoden. Det ble ikke bestemt proteinkonsentrasjon, men prøven ble også fortynnet i Laemmlibuffer (Bio-Rad) til å ha en konsentrasjon på 1.5-2.0 µg/µl. Løsningen ble kokt i 5 min, 95 ℃. Kjølt ned til romtemperatur og sentrifugert for å få ned kondens før vi begynte på Western blot slik det er beskrevet.
+
+#### **Western Blot**
+
+Elektroforesekammeret ble lagt på is og fylt med buffer. Gelen vasket vi med ultrarent vann (dH2O) før den ble lagt i kammeret. Tilsatte 5 µl standard proteinstige, og 25 µl prøve (duplikat av hver) til gel etter skjema. Alt vi tilsatte ble vortexet og sentrifugert før pipettering. Satte i kjøleskap (4 ℃) og kjørte elektroforese i 30 min, 300 volt.
+
+Demonterte gelen og la i overføringsbuffer med proteinside opp. Membraner som proteinene skulle bli overført til klippet vi i ene hjørnet og plasserte i methanol for å aktivere dem. Stod på shaker i 5-10 min. Våtgjorde 2 filterpapirer i overføringsbuffer og plassert oppå gelen, snudde rundt og fjernet dem forsiktig sammen. Svamp som var vasket med dH2O og hvor vannet var presset ut la vi i bunn i monteringsbrett (svart side ned). Helte oppi overføringsbuffer og plasserte filterpapiret med gel oppå svampen, fjernet eventuelle bobler. Til slutt la vi membranen oppå gel, med svamp på toppen og lukket igjen. La i overføringskammer som lå på is, fylte med overføringsbuffer og satte spenning på konstant 100 volt i 30 min.
+
+Neste steg var å sjekke om vi fikk overført proteiner til membran og kutte overflødig membran. Dyppet membran raskt i dH2O, la i MemCode sensitizer og satt på shaker i 2 min. Deretter la vi i MemCode reversible stain, og på shaker i 1 min. Dyppet så raskt 3 ganger i MemCode destain og ristet litt for å få det til å dekke membranen. Dekket membran med methanol/destain-løsning (blandet 1:1) og satte på shaker i 5 min. Skylte med dH2O før vi tok bilde av membraner. Fortsatte med å legge i eraser/methanol-løsning (blandet 1:1), på shaker i 10 min. Vasket 4 ganger med dH2O og kuttet membranen etter hvilke brønner vi hadde brukt. La over i TBS for lagring.
+
+Deretter blokkerte vi membranen med melkeproteiner på de stedene hvor det ikke allerede er proteiner. La membran i blokkeringsløsning (2.5 % melk blandet med TBS-T) i 1 time i romtemperatur på shaker. Før vi helte ut blokkeringsløsningen og renset i TBS. Primær antistoffet som ble brukt tilsatte vi oppi en løsning (5 % melk i TBS-T), før vi inkuberte membraner i løsningene over natten i 4 ℃. Antistoffene er fortynnet 1:200 i melkeløsningen. Prøvene fra høyre og venstre bein til den frivillige fra gruppa ble lagt i p-70 antistoff fra 2.november. Mens de andre to prøvene vi hadde fra en trent og en utrent person i et annet prosjekt ble lagt i UBF-antistoff fra 2017 (t-UBF).
+
+Neste dag vasket vi for primærantistoff før vi tilsatte sekundær antistoff. Vasket med TBS-T, 2 x 1 min + 3 x 5 min på shaker. Tilsatte sekundær antistoff (anti-mouse igG) til 2.5 % melk/TBS-T-løsning, i forholdet 1:3000. Brukte to ulike produsenter, membranen med p-70 primær antistoff ble lagt i anti-mouse igG fra Cell signaling, mens resterende i antistoff fra Thermo Fisher. Stod på vippebrett i 1 time i romtemperatur. Etterpå vasket vi med TBS, 4 x 5 min på shaker. Inkuberte membranen i ECL-løsning i 5-10 min, la den på platen for å ta bilde.
+
+#### **Homogenisering av muskelvev**
+
+Tørr muskelprøve veies, brukte 1.88 mg tørrvekt. Tilsatte protease/phosphatase inhibitorer til en iskald lysis buffer (Hepes buffer), 500 µl Hepes buffer og 5 µl inhibitorer. Viktig at prøven var på is til vi tilsatte Hepes buffer. Tilsatte 150 µl av blandingen til muskelprøven knuste mekanisk for hånd. Mos til det ikke er noen synlige biter igjen, første gang gikk det 20-30 sek før den ble satt på is igjen. Plasser på SB2 rotator i kjøleskap og roterte prøve i 30 min. Spinn den i 10 min på 10 000 g, 4 ℃, før vi forflyttet supernatanten forsiktig til et nytt rør uten å forstyrre pelleten. Brukte ufortynnede prøver, men resultatene var over maksimal konsentrasjon. Derfor fortynnet vi med dH2O og bestemte total proteinkonsentrasjon på en 1:1 fortynning. Konsentrasjonen bestemte vi med Bradford Assay, brukte 10 µl prøve + 250 µl reagent i hver brønn (Pierce Detergent Compatible Bradford Assay Reagent, Thermo Fisher Scientific).
+
+## **Resultater**
+
+```{r}
+#| echo: false 
+#| output: false 
+#| warning: false 
+#| message: false 
+
+## laste nødvendige pakker
+library(tidyverse); library(gt) 
+
+# Opprett et datasett med verdier fra homogenisering for å lage tabell
+library(data.table)
+
+dt <- data.table(
+  Kontroll_A = c(1.574, 1.635, 1.640),
+  Kontroll_B = c(1.537, 1.558, 1.566),
+  Kontroll_C = c(1.369, 1.471, 1.395),
+  Kontroll_D = c(1.246, 1.243, 1.280),
+  Kontroll_E = c(1.048, 1.070, 1.067),
+  Kontroll_F = c(0.835, 0.809, 0.855),
+  Kontroll_G = c(0.682, 0.677, 0.691),
+  Kontroll_H = c(0.520, 0.521, 0.519),
+  Prøve_1 = c(1.266, 1.083, 1.227)) 
+
+print(dt) 
+
+```
+
+```{r}
+#| echo: false 
+#| output: false 
+#| warning: false 
+#| message: false
+
+results_mean_cv_control <- dt %>% 
+  summarise(A = sd(Kontroll_A)/mean(Kontroll_A)*100, 
+            B = sd(Kontroll_B)/mean(Kontroll_B)*100,
+            C = sd(Kontroll_C)/mean(Kontroll_C)*100, 
+            D = sd(Kontroll_D)/mean(Kontroll_D)*100,
+            E = sd(Kontroll_E)/mean(Kontroll_E)*100, 
+            F = sd(Kontroll_F)/mean(Kontroll_F)*100,
+            G = sd(Kontroll_G)/mean(Kontroll_G)*100, 
+            H = sd(Kontroll_H)/mean(Kontroll_H)*100,
+            P1 = sd(Prøve_1)/mean(Prøve_1)*100
+            ) %>% 
+  pivot_longer(cols = A:P1,
+               names_to = "navn", 
+               values_to = "cv") |> 
+  filter(navn != "P1") |> 
+  summarise(m = mean(cv)) |> 
+  print() 
+
+results_mean_cv_control <- round(results_mean_cv_control, 1)
+
+```
+
+Mengden fosforylert p-70 var større i venstre bein enn i høyre bein, se @fig-figur1. Når det gjaldt homogeniseringen var det en god korrelasjon mellom signal og konsentrasjon i kontrollene og prøvene (se @fig-figur2). Gjennomsnittlig variasjonskoeffisient på signalstyrken for kontrollene var `r results_mean_cv_control`, fremstilt i @tbl-tabell1. Det ble funnet en 350 % større signalstyrke for p-70 i venstre bein versus høyre bein. Høyre bein hadde en signalstyrke på 2758 og 4842 (gjennomsnitt = 3800), mens venstre bein hadde en signalstyrke på 14826 og 11793 (gjennomsnitt = 13309). Homogeniseringen av de andre prøvene viste at 99,9 % av variasjonen i signal kunne forklares av konsentrasjon, og at signalstyrken for proteinmengden var på 2,532, 2,166 og 2,454, henholdsvis. I tillegg viste homogeniseringen akseptabel reliabilitet (variasjonskoeffisient \[CV\] = 20 %).
+
+```{r, results='asis'}
+#| echo: false
+cat("\\newpage")
+```
+
+![*Illustrasjon av mengden fosforylert p-70 i venstre versus høyre bein. De to boksene til venstre viser mengde p-70 i høyre fot og de to boksene til høyre viser mengde p-70 i venstre fot (N = 1).*](figur1_analysert_bilde_p70.PNG){#fig-figur1}
+
+```{r, results='asis'}
+#| echo: false
+cat("\\newpage")
+```
+
+![*Spredningsplott med trendkurve, som illustrerer den forklarte variansen mellom signal og konsentrasjon (N = 1). Notat: Data er presentert som bestemmelseskoeffisient (R*<sup>2</sup>) (skala: 0,0--1,0).](figur2_spredningsplot_trendkurve.PNG){#fig-figur2}
+
+```{r, results='asis'}
+#| echo: false
+cat("\\newpage")
+```
+
+```{r}
+#| label: tbl-tabell1 
+#| tbl-cap: "*Tabellen viser resultatene fra homogeniseringen for bestemmelse av proteinkonsentrasjon. CV er utregnet variasjonskoefisient for alle kontrollene og prøven. Alle verdiene er beregnet basert på triplikat. Pipetterte 3 av hver kontroll (A-H) og av prøveresultatene (P1).*"
+#| echo: false 
+#| warning: false 
+#| message: false 
+
+## regne ut variasjonskoeffisient og lage tabell
+dt %>% 
+  summarise(A = sd(Kontroll_A)/mean(Kontroll_A)*100, 
+            B = sd(Kontroll_B)/mean(Kontroll_B)*100,
+            C = sd(Kontroll_C)/mean(Kontroll_C)*100, 
+            D = sd(Kontroll_D)/mean(Kontroll_D)*100,
+            E = sd(Kontroll_E)/mean(Kontroll_E)*100, 
+            F = sd(Kontroll_F)/mean(Kontroll_F)*100,
+            G = sd(Kontroll_G)/mean(Kontroll_G)*100, 
+            H = sd(Kontroll_H)/mean(Kontroll_H)*100,
+            P1 = sd(Prøve_1)/mean(Prøve_1)*100
+            ) %>% 
+  pivot_longer(cols = A:P1,
+               names_to = "navn", 
+               values_to = "cv (%)") %>% 
+
+  gt() %>% 
+  fmt_number(columns = `cv (%)`, decimals = 2) |> 
+  cols_label(navn = "")
+
+```
+
+## **Diskusjon**
+
+### **Homogenisering**
+
+Den relativt høye, men akseptable, CV-en fra homogeniseringen kan indikere en betydelig grad av variasjon i resultatene, noe som kan være problematisk for reliabiliteten av eksperimentet. En potensiell årsak til denne relativt høye CV-en kan være utvanningen av testløsningen som vi var nødt til å utføre for å komme innenfor målegrensen for vårt analyseapparat. Utvanning kan introdusere usikkerhet og øke variasjonen i resultatene, spesielt når det gjelder prøver med lave konsentrasjoner av målproteiner. Det er også verdt å merke at bruk av pipettespissen for å blande løsningen kan ha ført til absorpsjon av vann eller proteiner, og dette kan ha påvirket nøyaktigheten av målingene. Fremtidige eksperimenter bør derfor vurdere alternative metoder for utvanning og prøveblanding for å minimere denne typen feilkilder. Imidlertid er det verdt å merke seg at bestemmelseskoeffisienten indikerer at selve pipetteringen var vellykket, og dette gir en viss grad av tillit til nøyaktigheten av våre målinger.
+
+### **Western blot**
+
+Western Blotting stiller høye krav til presisjon fra forskerne [@ghosh2014]. Dette gjør at marginale feil, som feil mengde primærantistoff, kan føre til ugyldige resultater [@ghosh2014]. Videre har inter-forsker variabilitet vist seg å være den største feilkilden, og kan utgjøre opptil 80 % av den totale variasjonen [@koller2005]. På tross av alle disse potensielle feilkildene, oppnådde vi adekvate resultater for p-70. Dette kan skyldes grundig planlegging og nøye utførelse av western blotting-prosedyren. Selv om teknikken stiller høye krav til presisjon fra forskerne, ble potensielle feilkilder adressert gjennom en nøyaktig tilnærming til hver fase av eksperimentet.
+
+Muskelbiopsien resulterte derimot i ugyldige resultater for UBF. Dette kan skyldes problemer med antistoffet (2017 årgang) (spesifisitet, selektivitet eller reproduserbarhet), bufferløsningen eller antigenet [@porstmann1985]. Imidlertid fikk gruppe 4, som hadde et annet antistoff (2022 årgang), heller ikke gyldige resultater for UBF. Dette kan indikere at antistoffet potensielt ikke var hovedårsaken til de ugyldige resultatene. Det bør likevel nevnes at kan settes spørsmålstegn ved konsistensen til antistoffet til gruppe 4, dermed kan vi ikke fullstendig utelukke at antistoffet kan ha bidratt til de ugyldige resultatene for UBF.
+
+En annen forklaring på de ugyldige resultatene kan være at mengden antigen på membranen potensielt ikke har vært tilstrekkelig, da dette også kan gi svakt eller ingen proteinsignal [@sule2023]. Proteiner som er uttrykt ved lave nivåer er mer sannsynlig å kreve en lengre overføringstid eller en større mengde prøve [@mishra2019]. Imidlertid modifiserte vi ikke verken overføringstiden eller mengden prøve. Dette kan dermed forklare deler av grunnen til at muskelbiopsien resulterte i ugyldige resultater for UBF. Fremtidige eksperimenter bør derfor vurdere å modifisere overføringstiden og prøvemengden ved mistanke om utilstrekkelig antigen på membranen.
