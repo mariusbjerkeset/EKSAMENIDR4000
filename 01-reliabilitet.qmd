@@ -232,7 +232,7 @@ summary_table %>%
 
 ```{r}
 #| echo: false
-#| fig-cap: "***Tabell 3:** viser gjennomsnittlig CV (%) og gjennomsnittlig standardavvik for hver av de tre utfallsvariablene. N= 7*"
+#| fig-cap: "***Notat:** Data er presentert som gjennomsnittlig variasjonskoeffisient og minste betydningsfulle forskjell for hver av de tre utfallsvariablene. VO2max = maksimalt oksygenopptak; W.max = watt-maks; MAOD.a = maksimalt akkumulert oksygenunderskudd; CV = variasjonskoeffisient; SWC = minste betydningsfulle forskjell.*"
 
 
 suppressWarnings({
@@ -310,7 +310,7 @@ result_table1 <- result_table1[!(result_table1$Variable %in% c("MAOD.a (after NA
 
 rownames(result_table1) <- NULL
 
-colnames(result_table1) <- c("Variable", "Mean Coef. of Variation (0.2)", "Mean Std. Deviation (0.2)")
+colnames(result_table1) <- c("Variable", "Cv (%)", "SWC")
 
 
 round_decimals <- function(x, n) {
