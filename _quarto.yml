@@ -7,7 +7,7 @@ book:
   date: "11.17.2023"
   chapters:
     - index.qmd
-    - 01-reliabilitet.qmd 
+    - 01-reliabilitet.qmd
     - 02-labrapport.qmd
     - 03-vitenskapfil.qmd
     - 04-studie_design.qmd
