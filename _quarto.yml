@@ -3,7 +3,7 @@ project:
 
 book:
   title: "IDR4000_MAPPEEKSAMEN"
-  author: "409"
+  author: "Kandidatnr. 409; Antall ord: 8973"
   date: "11.17.2023"
   chapters:
     - index.qmd
